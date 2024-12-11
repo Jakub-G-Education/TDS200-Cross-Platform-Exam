@@ -16,8 +16,8 @@ and add you firebase config ->
 
 
 ### ScreenShots
-<div flex="row" align="center">
-  <img src="https://raw.githubusercontent.com/Jakub-G-Education/TDS200-Cross-Platform-Exam/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202024-12-11%20at%2011.44.46.png" />
-  <img src="https://raw.githubusercontent.com/Jakub-G-Education/TDS200-Cross-Platform-Exam/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202024-12-11%20at%2011.46.15.png" />
-  <img src="https://raw.githubusercontent.com/Jakub-G-Education/TDS200-Cross-Platform-Exam/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202024-12-11%20at%2011.46.59.png" />
+<div align="center">
+  <img width="100" src="https://raw.githubusercontent.com/Jakub-G-Education/TDS200-Cross-Platform-Exam/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202024-12-11%20at%2011.44.46.png" />
+  <img width="100" src="https://raw.githubusercontent.com/Jakub-G-Education/TDS200-Cross-Platform-Exam/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202024-12-11%20at%2011.46.15.png" />
+  <img width="100" src="https://raw.githubusercontent.com/Jakub-G-Education/TDS200-Cross-Platform-Exam/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202024-12-11%20at%2011.46.59.png" />
 </div>
