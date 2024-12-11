@@ -14,6 +14,8 @@ and add you firebase config ->
  * Install all dependencies ```npm i```
  * To run ```npx start expo```
 
+<hr>
+
 
 ### ScreenShots
 <div align="center">
